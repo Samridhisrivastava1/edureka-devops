@@ -5,7 +5,7 @@
 
 class Hello {
 	public static void main(string[]args){
-		system.out.println("Welcome to your first java project on edureka lab")
+		system.out.println("Welcome to your first devops handson on  edureka lab")
 	}
 }
 
